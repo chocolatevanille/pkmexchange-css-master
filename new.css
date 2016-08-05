@@ -415,7 +415,7 @@ body {
 					margin: 1px -100% 1px -100%;
 				}
 
-					.link .score.likes {color: #ff6422;}
+					.link .score.likes {color: #800080;}
 					.link .score.dislikes {color: #5c5bd7;}
 
 				.arrow {
@@ -451,7 +451,7 @@ body {
 									opacity: 1;
 									z-index:100;
 									content: " ";
-									background-color:#ff5500;
+									background-color:#ba01ba;
 									border-radius: 28px;
 									animation: upvote 0.35s ease-out forwards;
 									-webkit-animation: upvote 0.35s ease-out forwards;
@@ -4414,3 +4414,9 @@ li>code,p>code{padding:0 3px;color:#222!important}
 .link .entry .tagline .userattrs a.moderator {background-color: purple!important;}
 
 .login-form-side { margin: -100px 0px 108px 0px !important}
+
+.thing.stickied.link .md a { color: #1068cb!important }
+
+.link .score { color: #b3b3b3!important}
+
+.comments-page .stickied.link .score { color: #9f9f9f!important}
