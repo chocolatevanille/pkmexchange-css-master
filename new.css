@@ -1526,7 +1526,6 @@ body {
 		/* Start Subreddit Box */
 		.side:before {
 			height: 192px;
-			background-image: url(%%sidebarimg%%);
 			background-color: #DBDBDB;
 			content: "";
 			display: block;
